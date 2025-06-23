@@ -1,0 +1,20 @@
+[project]
+name = "qtpy-equalizerbar"
+version = "0.1.0"
+description = "A Qt EqualizerBar widget forked from python-qtwidgets"
+readme = "README.md"
+authors = [
+  { name="VariousTurtle", email="leemarvinbeck@gmail.com" }
+]
+[project]
+license = "MIT"
+dependencies = ["qtpy"]
+requires-python = ">=3.7"
+
+[project.urls]
+"Homepage" = "https://github.com/VariousTurtle/qtpy-equalizerbar"
+"Source" = "https://github.com/VariousTurtle/qtpy-equalizerbar"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
