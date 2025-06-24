@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
   { name="VariousTurtle", email="leemarvinbeck@gmail.com" }
 ]
-[project]
+
 license = "MIT"
 dependencies = ["qtpy"]
 requires-python = ">=3.7"
