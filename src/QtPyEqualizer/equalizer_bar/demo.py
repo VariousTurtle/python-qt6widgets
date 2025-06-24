@@ -1,5 +1,5 @@
 from qtpy import QtCore, QtWidgets
-from QtPy_EqualizerBar import EqualizerBar
+from QtPyEqualizer import EqualizerBar
 
 import random
 
