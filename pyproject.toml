@@ -1,5 +1,5 @@
 [project]
-name = "qtpy_equalizerbar_widget"
+name = "QtPyEqualizerWidget"
 version = "0.1.0"
 description = "A Qt EqualizerBar widget forked from python-qtwidgets"
 readme = "README.md"
